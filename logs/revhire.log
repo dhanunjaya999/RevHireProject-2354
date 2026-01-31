@@ -1,0 +1,89 @@
+2026-01-30 23:49:43 INFO  com.revhire.service.AuthService - JobSeeker registered: sai@gmail.com
+2026-01-30 23:54:52 INFO  com.revhire.service.AuthService - Employer registered: dhanu@gmail.com
+2026-01-30 23:56:14 INFO  com.revhire.service.AuthService - Login successful: dhanu@gmail.com
+2026-01-30 23:57:47 INFO  com.revhire.service.AuthService - Login successful: sai@gmail.com
+2026-01-30 23:58:08 INFO  com.revhire.service.ProfileService - Profile education updated for sai@gmail.com
+2026-01-30 23:58:10 INFO  com.revhire.service.ProfileService - Profile experience updated for sai@gmail.com
+2026-01-30 23:58:13 INFO  com.revhire.service.ProfileService - Profile skills updated for sai@gmail.com
+2026-01-30 23:58:17 INFO  com.revhire.service.ProfileService - Profile certifications updated for sai@gmail.com
+2026-01-30 23:58:37 INFO  com.revhire.service.ResumeService - Resume objective updated for sai@gmail.com
+2026-01-30 23:58:42 INFO  com.revhire.service.ResumeService - Resume education updated for sai@gmail.com
+2026-01-30 23:58:43 INFO  com.revhire.service.ResumeService - Resume experience updated for sai@gmail.com
+2026-01-30 23:58:46 INFO  com.revhire.service.ResumeService - Resume skills updated for sai@gmail.com
+2026-01-30 23:58:55 INFO  com.revhire.service.ResumeService - Resume projects updated for sai@gmail.com
+2026-01-31 00:18:14 WARN  com.revhire.service.AuthService - Login failed: sai
+2026-01-31 00:25:58 INFO  com.revhire.service.AuthService - Login successful: dhanu@gmail.com
+2026-01-31 00:31:21 INFO  com.revhire.service.AuthService - Login successful: dhanu@gmail.com
+2026-01-31 00:37:10 INFO  com.revhire.service.AuthService - Login successful: dhanu@gmail.com
+2026-01-31 00:43:15 INFO  com.revhire.service.AuthService - Login successful: dhanu@gmail.com
+2026-01-31 00:47:31 INFO  com.revhire.service.AuthService - Login successful: dhanu@gmail.com
+2026-01-31 00:50:11 INFO  com.revhire.service.AuthService - Login successful: dhanu@gmail.com
+2026-01-31 01:34:01 INFO  com.revhire.service.AuthService - Login successful: dhanu@gmail.com
+2026-01-31 01:39:32 INFO  com.revhire.service.AuthService - Login successful: dhanu@gmail.com
+2026-01-31 01:57:04 INFO  com.revhire.service.AuthService - JobSeeker registered: js@test.com
+2026-01-31 01:57:04 WARN  com.revhire.service.AuthService - Login failed: user@test.com
+2026-01-31 01:57:04 WARN  com.revhire.service.AuthService - Login failed: no@test.com
+2026-01-31 01:57:04 INFO  com.revhire.service.AuthService - Employer registered: emp@test.com
+2026-01-31 01:57:04 INFO  com.revhire.service.AuthService - Login successful: user@test.com
+2026-01-31 02:06:27 INFO  com.revhire.service.ProfileService - Profile education updated for null
+2026-01-31 02:06:27 INFO  com.revhire.service.ProfileService - Profile skills updated for null
+2026-01-31 02:06:27 INFO  com.revhire.service.ProfileService - Profile certifications updated for null
+2026-01-31 02:06:27 INFO  com.revhire.service.ProfileService - Profile experience updated for null
+2026-01-31 02:06:27 INFO  com.revhire.service.ResumeService - Resume education updated for test@test.com
+2026-01-31 02:06:27 INFO  com.revhire.service.ResumeService - Resume skills updated for test@test.com
+2026-01-31 02:06:27 INFO  com.revhire.service.ResumeService - Resume projects updated for test@test.com
+2026-01-31 02:06:27 INFO  com.revhire.service.ResumeService - Resume objective updated for test@test.com
+2026-01-31 02:06:27 INFO  com.revhire.service.ResumeService - Resume experience updated for test@test.com
+2026-01-31 02:06:27 INFO  com.revhire.service.AuthService - Employer registered: emp@test.com
+2026-01-31 02:06:27 INFO  com.revhire.service.AuthService - Login successful: user@test.com
+2026-01-31 02:06:27 WARN  com.revhire.service.AuthService - Login failed: no@test.com
+2026-01-31 02:06:27 INFO  com.revhire.service.AuthService - JobSeeker registered: js@test.com
+2026-01-31 02:06:27 WARN  com.revhire.service.AuthService - Login failed: user@test.com
+2026-01-31 08:56:16 INFO  com.revhire.service.AuthService - JobSeeker registered: bharath123@gmail.com
+2026-01-31 08:56:35 INFO  com.revhire.service.AuthService - Login successful: bharath123@gmail.com
+2026-01-31 08:56:44 INFO  com.revhire.service.ProfileService - Profile education updated for bharath123@gmail.com
+2026-01-31 08:56:49 INFO  com.revhire.service.ProfileService - Profile experience updated for bharath123@gmail.com
+2026-01-31 08:56:52 INFO  com.revhire.service.ProfileService - Profile skills updated for bharath123@gmail.com
+2026-01-31 08:57:02 INFO  com.revhire.service.ProfileService - Profile certifications updated for bharath123@gmail.com
+2026-01-31 08:57:22 INFO  com.revhire.service.ResumeService - Resume objective updated for bharath123@gmail.com
+2026-01-31 08:57:27 INFO  com.revhire.service.ResumeService - Resume education updated for bharath123@gmail.com
+2026-01-31 08:57:31 INFO  com.revhire.service.ResumeService - Resume experience updated for bharath123@gmail.com
+2026-01-31 08:57:37 INFO  com.revhire.service.ResumeService - Resume skills updated for bharath123@gmail.com
+2026-01-31 08:57:44 INFO  com.revhire.service.ResumeService - Resume projects updated for bharath123@gmail.com
+2026-01-31 09:01:27 INFO  com.revhire.service.AuthService - Employer registered: vijay123@gmail.com
+2026-01-31 09:01:45 INFO  com.revhire.service.AuthService - Login successful: vijay123@gmail.com
+2026-01-31 09:21:53 WARN  com.revhire.service.AuthService - Login failed: vijay123@gmail.com
+2026-01-31 09:35:09 INFO  com.revhire.service.AuthService - Login successful: vijay123@gmail.com
+2026-01-31 09:53:23 INFO  com.revhire.service.AuthService - Login successful: vijay123@gmail.com
+2026-01-31 10:06:39 INFO  com.revhire.service.AuthService - Login successful: vijay123@gmail.com
+2026-01-31 11:09:28 INFO  com.revhire.service.ProfileService - Profile education updated for null
+2026-01-31 11:09:28 INFO  com.revhire.service.ProfileService - Profile skills updated for null
+2026-01-31 11:09:28 INFO  com.revhire.service.ProfileService - Profile experience updated for null
+2026-01-31 11:09:28 INFO  com.revhire.service.ProfileService - Profile certifications updated for null
+2026-01-31 11:09:28 INFO  com.revhire.service.ResumeService - Resume education updated for test@test.com
+2026-01-31 11:09:28 INFO  com.revhire.service.ResumeService - Resume objective updated for test@test.com
+2026-01-31 11:09:28 INFO  com.revhire.service.ResumeService - Resume experience updated for test@test.com
+2026-01-31 11:09:28 INFO  com.revhire.service.ResumeService - Resume projects updated for test@test.com
+2026-01-31 11:09:28 INFO  com.revhire.service.ResumeService - Resume skills updated for test@test.com
+2026-01-31 11:09:28 INFO  com.revhire.service.AuthService - Employer registered: emp@test.com
+2026-01-31 11:09:28 INFO  com.revhire.service.AuthService - Login successful: user@test.com
+2026-01-31 11:09:28 INFO  com.revhire.service.AuthService - JobSeeker registered: js@test.com
+2026-01-31 11:09:28 WARN  com.revhire.service.AuthService - Login failed: no@test.com
+2026-01-31 11:09:28 WARN  com.revhire.service.AuthService - Login failed: user@test.com
+2026-01-31 11:10:41 INFO  com.revhire.service.AuthService - Login successful: vijay123@gmail.com
+2026-01-31 11:14:05 INFO  com.revhire.service.AuthService - Employer registered: nikhil@gmail.com
+2026-01-31 11:14:18 INFO  com.revhire.service.AuthService - Login successful: nikhil@gmail.com
+2026-01-31 11:58:00 INFO  com.revhire.service.ProfileService - Profile education updated for null
+2026-01-31 11:58:00 INFO  com.revhire.service.ProfileService - Profile skills updated for null
+2026-01-31 11:58:00 INFO  com.revhire.service.ProfileService - Profile certifications updated for null
+2026-01-31 11:58:00 INFO  com.revhire.service.ProfileService - Profile experience updated for null
+2026-01-31 11:58:00 INFO  com.revhire.service.ResumeService - Resume education updated for test@test.com
+2026-01-31 11:58:00 INFO  com.revhire.service.ResumeService - Resume skills updated for test@test.com
+2026-01-31 11:58:00 INFO  com.revhire.service.ResumeService - Resume objective updated for test@test.com
+2026-01-31 11:58:00 INFO  com.revhire.service.ResumeService - Resume projects updated for test@test.com
+2026-01-31 11:58:00 INFO  com.revhire.service.ResumeService - Resume experience updated for test@test.com
+2026-01-31 11:58:00 INFO  com.revhire.service.AuthService - Employer registered: emp@test.com
+2026-01-31 11:58:00 INFO  com.revhire.service.AuthService - Login successful: user@test.com
+2026-01-31 11:58:00 WARN  com.revhire.service.AuthService - Login failed: user@test.com
+2026-01-31 11:58:00 WARN  com.revhire.service.AuthService - Login failed: no@test.com
+2026-01-31 11:58:00 INFO  com.revhire.service.AuthService - JobSeeker registered: js@test.com
