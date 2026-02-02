@@ -87,3 +87,11 @@
 2026-01-31 11:58:00 WARN  com.revhire.service.AuthService - Login failed: user@test.com
 2026-01-31 11:58:00 WARN  com.revhire.service.AuthService - Login failed: no@test.com
 2026-01-31 11:58:00 INFO  com.revhire.service.AuthService - JobSeeker registered: js@test.com
+2026-01-31 12:37:37 INFO  com.revhire.service.AuthService - Employer registered: chandra@gmail.com
+2026-01-31 12:38:36 INFO  com.revhire.service.AuthService - Login successful: chandra@gmail.com
+2026-01-31 12:44:22 INFO  com.revhire.service.AuthService - Login successful: vijay123@gmail.com
+2026-01-31 12:46:18 INFO  com.revhire.service.AuthService - Login successful: bharath123@gmail.com
+2026-01-31 12:47:38 INFO  com.revhire.service.AuthService - Login successful: vijay123@gmail.com
+2026-02-02 10:25:36 INFO  com.revhire.service.AuthService - JobSeeker registered: bhanu@gmail.com
+2026-02-02 10:25:58 WARN  com.revhire.service.AuthService - Login failed: dhanu@gmail.com
+2026-02-02 10:26:23 INFO  com.revhire.service.AuthService - Login successful: bhanu@gmail.com
